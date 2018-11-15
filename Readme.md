@@ -1,3 +1,19 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[Form1.cs](./CS/MvpvmNavigation/Form1.cs) (VB: [Form1.vb](./VB/MvpvmNavigation/Form1.vb))**
+* [Interfaces.cs](./CS/MvpvmNavigation/Interfaces.cs) (VB: [Interfaces.vb](./VB/MvpvmNavigation/Interfaces.vb))
+* [Model.cs](./CS/MvpvmNavigation/Model/Model.cs) (VB: [Model.vb](./VB/MvpvmNavigation/Model/Model.vb))
+* [MainFormPresenter.cs](./CS/MvpvmNavigation/Presenter/MainFormPresenter.cs) (VB: [MainFormPresenter.vb](./VB/MvpvmNavigation/Presenter/MainFormPresenter.vb))
+* [Program.cs](./CS/MvpvmNavigation/Program.cs) (VB: [Program.vb](./VB/MvpvmNavigation/Program.vb))
+* [ModuleActivator.cs](./CS/MvpvmNavigation/Services/ModuleActivator.cs) (VB: [ModuleActivator.vb](./VB/MvpvmNavigation/Services/ModuleActivator.vb))
+* [ModuleLocator.cs](./CS/MvpvmNavigation/Services/ModuleLocator.cs) (VB: [ModuleLocator.vb](./VB/MvpvmNavigation/Services/ModuleLocator.vb))
+* [ModuleTypeResolver.cs](./CS/MvpvmNavigation/Services/ModuleTypeResolver.cs) (VB: [ModuleTypeResolver.vb](./VB/MvpvmNavigation/Services/ModuleTypeResolver.vb))
+* [TransitionService.cs](./CS/MvpvmNavigation/Services/TransitionService.cs) (VB: [TransitionService.vb](./VB/MvpvmNavigation/Services/TransitionService.vb))
+* [MainFormViewModel.cs](./CS/MvpvmNavigation/ViewModels/MainFormViewModel.cs) (VB: [MainFormViewModel.vb](./VB/MvpvmNavigation/ViewModels/MainFormViewModel.vb))
+* [View1.cs](./CS/MvpvmNavigation/Views/View1.cs) (VB: [View1.vb](./VB/MvpvmNavigation/Views/View1.vb))
+* [View2.cs](./CS/MvpvmNavigation/Views/View2.cs) (VB: [View2.vb](./VB/MvpvmNavigation/Views/View2.vb))
+<!-- default file list end -->
 # Lesson 5 - Complex Navigation in MVPVM Application
 
 
